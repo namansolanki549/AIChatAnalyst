@@ -1,0 +1,9 @@
+urlextract==1.8.0
+pandas==1.4.3
+numpy==1.24.3
+nltk==3.8.1
+emoji==2.2.0
+vaderSentiment==3.3.2
+streamlit==1.21.0
+plotly==5.11.0
+seaborn==0.11.2
